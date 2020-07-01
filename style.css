@@ -1,0 +1,79 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.name-highlight{
+    font-size: 60px;
+    color:#d40980d0;
+    font-weight: 900;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:70%;
+}
+.top-banner{
+    background-image: url("images/header.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #d40980d0, #88015093);
+    padding: 10px 20px;
+    color: white;
+    font-weight:700;
+    border-radius: 5px;
+}
+.middle{
+    background-image: url(images/biography.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.latest-work{
+    
+    float: left;
+    margin-left: 5%;
+    padding: 2% 5%;
+   
+
+}
+.latest-work img{
+    width:30%;
+}
+
+.latest-banner{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.last-part{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#link{
+    font-size: 40px;
+}
+.link-button-last{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #d40980d0, #88015093);
+    padding: 40px 40px;
+    color: white;
+    text-align: center;
+    width: 20%;
+    border-radius: 5px;
+
+}
+
+
+footer{
+    text-align: center;
+}
